@@ -1,0 +1,5 @@
+.center {
+    -ms-flex-align: center;
+    justify-content: center;
+    align-content: center;
+}
